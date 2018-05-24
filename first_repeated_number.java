@@ -68,6 +68,8 @@ class Ideone
 		break;
 
 	}
+	else
+		System.out.print("UNIQUE");
 
 	}
 	}
